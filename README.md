@@ -48,7 +48,4 @@ Simple python project that interacts with [pokeapi.co](https://pokeapi.co/)
     make run
     ```
 
-
-
-
-
+    files with results will be under `./src/results/`
