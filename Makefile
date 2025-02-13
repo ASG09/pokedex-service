@@ -6,3 +6,6 @@ test:
 
 lint:
 	flake8 src/ --select=WPS
+
+mypy:
+	mypy src/
